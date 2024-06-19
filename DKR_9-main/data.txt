@@ -1,5 +1,0 @@
-Sport-52,Stels,True,True,Спортмастер,19000,Ул.Ленина, д87
-turbosport-51,forvard,False,False,Мегаспорт,,Ул. Пушкина, д.43
-bmx,stinger,True,False,СПорт-жизнь,40000,Ул.Азина, д67
-,,False,False,,,
-,,False,False,,,
